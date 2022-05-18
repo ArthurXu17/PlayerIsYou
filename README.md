@@ -2,7 +2,7 @@
 
 ### About PlayerIsYou
 
-PlayerIsYou is a puzzle game that is inspired by an indie game "Baba is You." It is a unique RPG where the character is able to move text boxes to alter the rules of the game.
+PlayerIsYou is a puzzle game that is inspired by an indie game "Baba is You." It is a unique RPG where the character is able to move text boxes to alter the rules of the game. Download the latest release to have some fun yourself!
 
 ### Some Examples
 
